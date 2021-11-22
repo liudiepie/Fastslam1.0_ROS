@@ -1,7 +1,8 @@
 # Fastslam1.0_ROS
 This repository is based on [EKFSLAM_FastSLAM](https://github.com/ogzkhrmn/EKFSLAM_FastSLAM) and Turtlebot3  
 It is required to install these two packages to obtain the full process  
-The purpose of making this project is to understand the basic knowledge of SLAM
+The purpose of making this project is to understand the basic knowledge of SLAM  
+This is the performance video [LINK](https://youtu.be/M4Wkvzu3IXc)
 ### Installation
 1. Install Turtlebot3  
    There are lots of resource teaching people how to install Turtlebot3.    
@@ -41,7 +42,7 @@ The purpose of making this project is to understand the basic knowledge of SLAM
    python Main.py
    ```
    The result would occur in few seconds.
-### Environment
+### Environment  
    Ubuntu 20.04 noetic  
    Python 3.6
    
