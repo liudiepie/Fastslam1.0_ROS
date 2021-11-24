@@ -34,7 +34,7 @@ This is the performance video [LINK](https://youtu.be/m9bYkNUJaH8)
    The initial position of 
    Certain position can be easier change through goal in move.py  
 4. Checking the collected data  
-   After Running the move.py, odom_data.dat which includes sensor data would occur.
+   After Running the move.py, odom_data.dat which includes sensor data would occur.  
    Plugging the numbers into the sensor_data.dat  
    The data would be ready to perform fastslam  
 5. Performance  
