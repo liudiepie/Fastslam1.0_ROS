@@ -41,6 +41,12 @@ This is the performance video [LINK](https://youtu.be/M4Wkvzu3IXc)
    ```bash
    python Main.py
    ```
+   This will show 2 image, one for EKF filter, another one for fastslam1.0  
+   Open another terminal under EKFSLAM_FastSLAM file and run  
+   ```bash
+   python TruePath.py
+   ```  
+   This will show 1 image of the true path that turtlebot passed through
    The result would occur in few seconds.
 ### Environment  
    Ubuntu 20.04 noetic  
