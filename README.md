@@ -31,6 +31,7 @@ This is the performance video [LINK](https://youtu.be/m9bYkNUJaH8)
    python move.py
    ```
    The turtlebot should wait for a few second and move to the certain position  
+   The initial position of 
    Certain position can be easier change through goal in move.py  
 4. Checking the collected data  
    After Running the move.py, odom_data.dat which includes sensor data would occur.
