@@ -14,29 +14,29 @@ This is the performance video [LINK](https://youtu.be/m9bYkNUJaH8)
    git clone <HTTPS or SSH>
    ```
    It is suggested to clone this package under the turtlebot3_slam/src file  
-   Make sure both packages install properly
+   Make sure both packages install properly  
 3. Install this repository  
    Clone the package also under the turtlebot3_slam/src file  
-   It would be easier to modify
+   It would be easier to modify  
 ### Implementation
 1. Replace the file  
-   Copy Main.py and sensor_data.dat in this repocitory and replace the same name file under EKFSLAM_FastSLAM
+   Copy Main.py and sensor_data.dat in this repocitory and replace the same name file under EKFSLAM_FastSLAM  
 2. Launch Turtlebot3  
    ```bash
    roslaunch turtlebot3_gazebo turtlebot3_world.launch
    ```
 3. Move the Turtlebot  
-   Open a terminal under this repository and run
+   Open a terminal under this repository and run  
    ```bash 
    python move.py
    ```
    The turtlebot should wait for a few second and move to the certain position  
-   The initial position of 
+   The initial position of turtlebot is (-2, 0), and the goal position is (0, 2)  
    Certain position can be easier change through goal in move.py  
 4. Checking the collected data  
-   After Running the move.py, odom_data.dat which includes sensor data would occur.  
-   Plugging the numbers into the sensor_data.dat  
-   The data would be ready to perform fastslam  
+   After Running the move.py, odom_data.dat which includes sensor data would occur.   
+   Plugging the numbers into the sensor_data.dat   
+   The data would be ready to perform fastslam   
 5. Performance  
    Open a terminal under EKFSLAM_FastSLAM file and run  
    ```bash
@@ -47,8 +47,8 @@ This is the performance video [LINK](https://youtu.be/m9bYkNUJaH8)
    ```bash
    python TruePath.py
    ```  
-   This will show 1 image of the true path that turtlebot passed through
-   The result would occur in few seconds.
+   This will show 1 image of the true path that turtlebot passed through  
+   The result would occur in few seconds.  
 ### Environment  
    Ubuntu 20.04 noetic  
    Python 3.6
