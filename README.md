@@ -51,7 +51,7 @@ This is the performance video [LINK](https://youtu.be/YK5cioHHD5E)
    The result would occur in few seconds.  
 ### Result
    EKFSlam  
-   ![](image ekf.png)  
+   ![](image ekf.png?raw=true)  
 ### Environment  
    Ubuntu 20.04 noetic  
    Python 3.6
