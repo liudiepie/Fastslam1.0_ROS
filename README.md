@@ -53,11 +53,11 @@ This is the performance video [LINK](https://youtu.be/YK5cioHHD5E)
    EKFSlam  
    ![](<image/ekf.png>)    
    FastSLAM1.0   
-   ![](<image/fastslam.png>)
+   ![](<image/fastslam.png>)  
    FastSLAM1.0 with particles  
    ![](<image/fastslamp.png>)  
    TruePath  
-   ![](<image/truepath>)  
+   ![](<image/truepath.png>)  
 ### Environment  
    Ubuntu 20.04 noetic  
    Python 3.6
