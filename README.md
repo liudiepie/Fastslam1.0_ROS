@@ -20,7 +20,7 @@ This is the performance video [LINK](https://youtu.be/YK5cioHHD5E)
    It would be easier to modify  
 ### Implementation
 1. Replace the file  
-   Copy Main.py and sensor_data.dat in this repocitory and replace the same name file under EKFSLAM_FastSLAM  
+   Copy all the files in this repocitory and replace the same name file under EKFSLAM_FastSLAM  
 2. Launch Turtlebot3  
    ```bash
    roslaunch turtlebot3_gazebo turtlebot3_world.launch
