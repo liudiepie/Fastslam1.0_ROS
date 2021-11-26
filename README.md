@@ -51,7 +51,13 @@ This is the performance video [LINK](https://youtu.be/YK5cioHHD5E)
    The result would occur in few seconds.  
 ### Result
    EKFSlam  
-   ![](<image/ekf.png>)  
+   ![](<image/ekf.png>)    
+   FastSLAM1.0   
+   ![](<image/fastslam.png>)
+   FastSLAM1.0 with particles  
+   ![](<image/fastslamp.png>)  
+   TruePath  
+   ![](<image/truepath>)  
 ### Environment  
    Ubuntu 20.04 noetic  
    Python 3.6
