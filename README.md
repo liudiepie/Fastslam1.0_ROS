@@ -49,6 +49,9 @@ This is the performance video [LINK](https://youtu.be/YK5cioHHD5E)
    ```  
    This will show 1 image of the true path that turtlebot passed through  
    The result would occur in few seconds.  
+### Result
+   EKFSlam  
+   ![](image ekf.png)  
 ### Environment  
    Ubuntu 20.04 noetic  
    Python 3.6
